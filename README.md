@@ -1,11 +1,14 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day / a new tech enthusiast by night
+#### A full-stack developer by day / a tech enthusiast by night
 
-Full-Stack Developer at [abgroup.tech](https://abgroup.tech)<br>
+Full-stack developer at [abgroup.tech](https://abgroup.tech/)
+<br>
 
-- ⚙️ Daily using: `.ts`, `.tsx`, `.py`
-- 💻 Front-end tech stack: [`React`](https://react.dev/), [`Next.js`](https://nextjs.org/)
-- ⌨️ Back-end tech stack: [`Falcon`](https://falcon.readthedocs.io/)
-- 👀 Currently learning: [`Go`](https://go.dev/)
-- ☄️ I am also interested in: [`Nest.js`](https://nestjs.com/), [`Astro`](https://astro.build/)
+- ⚙️ Daily using: `.ts`, `.tsx`, `.go`, `.py`
+- 🛠️ Core languages: [`Go`](https://go.dev/), [`TypeScript`](https://www.typescriptlang.org/)
+- 💻 Front-end stack: [`React`](https://react.dev/), [`Next.js`](https://nextjs.org/)
+- ⌨️ Back-end stack: [`Go`](https://go.dev/), [`Express`](https://expressjs.com/), [`FastAPI`](https://fastapi.tiangolo.com/)
+- 🌱 Databases & Tools: [`PostgreSQL`](https://www.postgresql.org/), [`MongoDB`](https://www.mongodb.com/), [`Docker`](https://www.docker.com/), [`Git`](https://git-scm.com/)
+- 👀 Learning / Focusing: `Computer Networking`
+- ☄️ Also interested in: [`Nest.js`](https://nestjs.com/), [`Astro`](https://astro.build/), [`Electron`](https://www.electronjs.org/)
