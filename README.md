@@ -1,11 +1,15 @@
-### Hello there 👋
+<div align="center">
 
-#### A full-stack developer by day / A tech enthusiast by night
+full-stack developer. tech enthusiast.
 
-- ⚙️ Daily using: `.ts`, `.tsx`, `.go`, `.py`
-- 🛠️ Core languages: [`Go`](https://go.dev/), [`TypeScript`](https://www.typescriptlang.org/)
-- 💻 Front-end stack: [`React`](https://react.dev/), [`Next.js`](https://nextjs.org/)
-- ⌨️ Back-end stack: [`Go`](https://go.dev/), [`Express`](https://expressjs.com/), [`FastAPI`](https://fastapi.tiangolo.com/)
-- 🌱 Databases & Tools: [`PostgreSQL`](https://www.postgresql.org/), [`MongoDB`](https://www.mongodb.com/), [`Docker`](https://www.docker.com/), [`Git`](https://git-scm.com/)
-- 👀 Learning / Focusing: `Computer Networking`
-- ☄️ Also interested in: [`Nest.js`](https://nestjs.com/), [`Astro`](https://astro.build/), [`Electron`](https://www.electronjs.org/)
+[leetcode](https://leetcode.com/u/wshdp/)
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[codewars](https://www.codewars.com/users/wshdp)
+
+<a href="https://github.com/imwshdp">
+  <img src="https://count.owenewans.org/imwshdp?theme=original-new" alt="profile commit counter">
+</a>
+
+stack / `go` `typescript` `python`
+
+</div>
